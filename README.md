@@ -1,3 +1,3 @@
-# ML-classification-Iris-Dataset
-simple machine learning classification on Iris Dataset
+# ML-classification-Iris-and titanic Dataset
+simple machine learning classification on Iris and titanic_survival 
 From a dataset obtained from  kaggle
